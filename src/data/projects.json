@@ -1,0 +1,26 @@
+[
+  {
+    "title": "School final project",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for a dentist place, to book appoinments and see them in a calendar, and aprove them and also aprove new employees.",
+    "skills": ["PHP", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Jose-Manuel-Sanchez-Quintana?tab=repositories"
+  },
+  {
+    "title": "School final project",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to automate and facilitate parking on parkinglots and tell where to park and made with IoT.",
+    "skills": ["Python", "Laravel", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Jose-Manuel-Sanchez-Quintana/ClaseTI52"
+  },
+  {
+    "title": "Software development school team",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made for the school where you could see work vacants and teacher could work on school tasks.",
+    "skills": ["VueJs", "SQL"],
+    "demo": "https://www.sieutslrc.education/",
+    "source": "https://github.com/Jose-Manuel-Sanchez-Quintana?tab=repositories"
+  }
+]
